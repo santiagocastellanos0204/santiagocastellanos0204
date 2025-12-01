@@ -1,8 +1,6 @@
-![IMG_7727](https://github.com/user-attachments/assets/c32e5b91-7dca-430c-8a89-1223092bc7ca)
+![IMG_0292](https://github.com/user-attachments/assets/1ba5f141-829f-4b53-ae76-7158d006d2f6)
 
-Hey there, I'm Santiago, a product designer and developer with a focus on craft & product thinking.
-
-I thrive on building complex & technical products with a high bar for craft. I'm passionate about bridging the gap between design & code to help anyone build software.
+Hi I'm Santiago, a product designer and developer who thrives in building complex & technical products with a high bar for craft.
 
 <!--
 **santiagocastellanos0204/santiagocastellanos0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
