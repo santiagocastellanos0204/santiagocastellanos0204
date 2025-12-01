@@ -1,4 +1,4 @@
-### Hi I'm Santiago, a product designer and developer who thrives in building complex & technical products with a high bar for craft—passionate about bridging the gap between design & code to help anyone build software. Enjoy the view from the palace of fine arts 🏯
+### Hi I'm Santiago, a product designer and developer who thrives in building complex & technical products with a high bar for craft. Feel free to take in the beautiful view from the palace of fine arts 🏯
 
 ![IMG_0292](https://github.com/user-attachments/assets/1ba5f141-829f-4b53-ae76-7158d006d2f6)
 
