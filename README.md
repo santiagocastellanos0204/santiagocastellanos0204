@@ -1,4 +1,4 @@
-### Santiago is a product designer who writes code & thinks in systems. 
+### Santiago is a UX designer who writes code & thinks in systems. 
 
 ### Feel free to soak in the beautiful view from SF ☀️
 
